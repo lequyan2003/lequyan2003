@@ -27,7 +27,7 @@
       <!-- Image Column -->
       <td style="padding: 10px;">
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHExcWFpNHNnemF5cXFqNHliNGhpa3kwNWhwZ21iMmU1cDljZ2ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" style="border-radius: 10px; width: 100%;" />
-        <p style="margin-top: 10px;"><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
+        <p style="margin-top: 10px;"><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc"></a></p>
       </td>
     </tr>
   </table>
@@ -49,6 +49,7 @@
 <img alt="Pytorch"  src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img alt="Tensorflow"  src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=FastAPI&logoColor=white&labelColor=%23009688">
 <br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=%236DB33F">
@@ -69,13 +70,21 @@
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <br/>
+<img alt="Static Badge" src="https://img.shields.io/badge/MLflow-%230194E2?style=for-the-badge&logo=MLflow&logoColor=white&labelColor=%230194E2">
+<img alt="Static Badge" src="https://img.shields.io/badge/DVC-%2313ADC7?style=for-the-badge&logo=DVC&logoColor=white&labelColor=%2313ADC7">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&labelColor=%232088FF">
+<img alt="AWS"  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<br/>
+<img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-%23D71F00?style=for-the-badge&logo=SQLAlchemy&logoColor=white&labelColor=%23D71F00">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=%234479A1">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<br/>
 <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img alt="Colab" src="https://img.shields.io/badge/Colab-fb9c04?style=for-the-badge&&logo=google-colab&logoColor=fb9c04&labelColor=282828">
 <img alt="Kaggle"  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+<img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=%23FFA116">
 <br/>
-<img alt="AWS"  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 <br />
 
