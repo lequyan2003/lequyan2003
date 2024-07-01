@@ -19,9 +19,9 @@
   <table>
     <tr>
       <!-- GitHub Stats and Top Languages (stacked together in one column) -->
-      <td width="48%">
-        <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=true&hide_border=true" />
+      <td width="48%" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" style="border-radius: 10px; width: 100%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=true&hide_border=true" style="border-radius: 10px; width: 100%; margin-top: 10px;" />
       </td>
       <!-- Image Column -->
       <td width="52%">
