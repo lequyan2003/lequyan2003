@@ -26,6 +26,7 @@
     </tr>
   </table>
 </div>
+
 ## Tech Stack 
 ### Languages & Frameworks
 <p align="center">
