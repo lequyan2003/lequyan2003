@@ -6,6 +6,8 @@
 - :zap: Fun fact: I enjoy calculating odds in poker just as much as I enjoy solving complex algorithms.😅
 
 ## ✨ GitHub Stats   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lequyan2003&label=Profile%20views&color=ba0bea&style=flat" alt="lequyan2003" /> </p>
+
 <table>
 <tr>
   <td width="48%">
