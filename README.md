@@ -3,10 +3,17 @@
 
 - 🔭 I'm passionate about Software Engineering, Machine Learning, and Data Engineering
 - 🥅 Favorite Quote: "Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last." - Stephen Hawking -
-- :zap: Fun fact: I enjoy calculating odds in poker just as much as I enjoy solving complex algorithms. 😅
+- :zap: Fun fact: I enjoy calculating odds in poker just as much as I enjoy solving complex algorithms.😅
 
 ## ✨ GitHub Stats   
-
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+</tr>
+<table>
 
 ## Tech Stack 
 ### Languages & Frameworks
