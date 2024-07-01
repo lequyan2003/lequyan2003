@@ -54,7 +54,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white&labelColor=%236DB33F">
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Security-%236DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white&labelColor=%236DB33F">
 <br/>
-<img alt="Static Badge" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=%2361DAFB">
 <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=%2306B6D4">
 <img alt="Static Badge" src="https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white&labelColor=%23764ABC">
