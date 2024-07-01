@@ -9,7 +9,7 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=false&hide_border=true" />
   </td>
 </tr>
