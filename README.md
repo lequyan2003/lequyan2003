@@ -15,21 +15,13 @@
 <!-- Profile View Counter -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flequyan2003&label=VISITORS&labelColor=%2300bfff&countColor=%23ffc0cb&style=plastic&labelStyle=upper)
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
+
 <table>
 <tr>
   <td width="48%">
     <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%">
-    <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-          <iframe 
-            src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="100%" height="100%" 
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
-            frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    </div>
-    <p style="margin-top: 10px;"><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p> 
-  </td>
 </tr>
 <table>
 
