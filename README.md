@@ -16,22 +16,20 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flequyan2003&label=VISITORS&labelColor=%2300bfff&countColor=%23ffc0cb&style=plastic&labelStyle=upper)
 
 <!-- Center Align the Table and Add Styling -->
-<div align="center" style="margin-top: 20px;">
-  <table style="border-collapse: collapse; width: 80%; max-width: 900px; margin: auto;">
+  <table>
     <tr>
       <!-- GitHub Stats and Top Languages (stacked together in one column) -->
-      <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" style="border-radius: 10px; width: 100%;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=false&hide_border=true" style="border-radius: 10px; width: 100%; margin-top: 10px;" />
+      <td width="48%">
+        <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=false&hide_border=true" />
       </td>
       <!-- Image Column -->
-      <td style="padding: 10px;">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHExcWFpNHNnemF5cXFqNHliNGhpa3kwNWhwZ21iMmU1cDljZ2ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" style="border-radius: 10px; width: 100%;" />
-        <p style="margin-top: 10px;"><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc"></a></p>
+      <td width="52%">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHExcWFpNHNnemF5cXFqNHliNGhpa3kwNWhwZ21iMmU1cDljZ2ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
+        <p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc"></a></p>
       </td>
     </tr>
   </table>
-</div>
 
 ## Tech Stack 
 ### Languages & Frameworks
