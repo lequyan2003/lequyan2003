@@ -2,7 +2,9 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/lequyan2003)
+
 </div>
 
 - 🔭 I'm passionate about Software Engineering, Machine Learning, and Data Engineering
@@ -41,18 +43,20 @@
 <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 <img alt="Sklearn"  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<br/>
 <img alt="Pytorch"  src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img alt="Tensorflow"  src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 <br/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=%236DB33F">
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white&labelColor=%236DB33F">
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Security-%236DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white&labelColor=%236DB33F">
+<br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=%2306B6D4">
 <img alt="Static Badge" src="https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white&labelColor=%23764ABC">
-<img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=%23000000">
 </p>
 
 
