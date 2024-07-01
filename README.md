@@ -6,17 +6,26 @@
 - :zap: Fun fact: I enjoy calculating odds in poker just as much as I enjoy solving complex algorithms.😅
 
 ## ✨ GitHub Stats   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lequyan2003&label=Profile%20views&color=ba0bea&style=flat" alt="lequyan2003" /> </p>
+<!-- Center the Profile View Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lequyan2003&label=Profile%20views&color=ba0bea&style=flat" alt="lequyan2003" />
+</div>
 
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=false&hide_border=true" />
-  </td>
-</tr>
-<table>
-
+<!-- Center Align the Table and Add Styling -->
+<div align="center" style="margin-top: 20px;">
+  <table style="border-collapse: collapse; width: 80%; max-width: 900px; margin: auto;">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" style="border-radius: 10px;" />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=false&hide_border=true" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 ## Tech Stack 
 ### Languages & Frameworks
 <p align="center">
