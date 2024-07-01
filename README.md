@@ -15,15 +15,25 @@
 <!-- Profile View Counter -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flequyan2003&label=VISITORS&labelColor=%2300bfff&countColor=%23ffc0cb&style=plastic&labelStyle=upper)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
-
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=true&hide_border=true" />
-</tr>
-<table>
+<!-- Center Align the Table and Add Styling -->
+<div align="center" style="margin-top: 20px;">
+  <table style="border-collapse: collapse; width: 80%; max-width: 900px; margin: auto;">
+    <tr>
+      <!-- GitHub Stats and Top Languages (stacked together) -->
+      <td align="center" style="padding: 10px;" colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" style="border-radius: 10px; width: 100%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=false&hide_border=true" style="border-radius: 10px; width: 100%;" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Image Column -->
+      <td align="center" style="padding: 10px;" colspan="2">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHExcWFpNHNnemF5cXFqNHliNGhpa3kwNWhwZ21iMmU1cDljZ2ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" style="border-radius: 10px; width: 100%;" />
+        <p style="margin-top: 10px;"><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Tech Stack 
 ### Languages & Frameworks
