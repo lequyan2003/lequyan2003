@@ -6,10 +6,8 @@
 - :zap: Fun fact: I enjoy calculating odds in poker just as much as I enjoy solving complex algorithms.😅
 
 ## ✨ GitHub Stats   
-<!-- Center the Profile View Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lequyan2003&label=Profile%20views&color=ba0bea&style=flat" alt="lequyan2003" />
-</div>
+<!-- Profile View Counter -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flequyan2003&label=VISITORS&labelColor=%2300bfff&countColor=%23ffc0cb&style=plastic&labelStyle=upper)
 
 <!-- Center Align the Table and Add Styling -->
 <div align="center" style="margin-top: 20px;">
