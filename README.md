@@ -19,13 +19,17 @@
 <div align="center" style="margin-top: 20px;">
   <table style="border-collapse: collapse; width: 80%; max-width: 900px; margin: auto;">
     <tr>
-      <td align="center" style="padding: 10px;">
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" style="border-radius: 10px;" />
+      <!-- GitHub Stats and Top Languages (stacked together) -->
+      <td align="center" style="padding: 10px;" colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api?username=lequyan2003&show_icons=true&hide=contribs,issues&hide_border=true&hide_rank=true" style="border-radius: 10px; width: 100%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=false&hide_border=true" style="border-radius: 10px; width: 100%;" />
       </td>
-      <td align="center" style="padding: 10px;">
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequyan2003&layout=compact&show_icons=false&hide_border=true" style="border-radius: 10px;" />
+    </tr>
+    <tr>
+      <!-- Image Column -->
+      <td align="center" style="padding: 10px;" colspan="2">
+        <iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" style="border: none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+        <p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
       </td>
     </tr>
   </table>
